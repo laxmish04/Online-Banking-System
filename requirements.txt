@@ -1,0 +1,6 @@
+Flask==3.0.0
+mysql-connector-python==8.2.0
+Werkzeug==3.0.1
+reportlab==4.0.7
+flask-mail==0.10.0
+
